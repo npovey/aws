@@ -103,7 +103,7 @@ Darwin nps-MacBook-Air-2.local 18.7.0 Darwin Kernel Version 18.7.0: Tue Aug 20 1
 
 #### Testing on local computer MacOS 
 
-![before](/Users/np/Desktop/program3/images/before.png)
+![before](/program3/images/before.png)
 
 Ran the Backup.py from outside the program3 folder
 
