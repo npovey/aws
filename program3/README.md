@@ -123,7 +123,7 @@ nps-MacBook-Air-2:Desktop np$
 
 Notice that npovey2 folder appeared.
 
-![after](/Users/np/Desktop/program3/images/after.png)
+![after](/program3/images/after.png)
 
 Ran the same command the second time
 
