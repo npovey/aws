@@ -144,7 +144,7 @@ nps-MacBook-Air-2:Desktop np$
 
 Edit Backup.py and try again
 
-![local_folder](/Users/np/Desktop/program3/images/local_folder.png)
+![local_folder](/program3/images/local_folder.png)
 
 ```python
 nps-MacBook-Air-2:Desktop np$ python3 program3/Backup.py text2
