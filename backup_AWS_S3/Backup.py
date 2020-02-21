@@ -1,5 +1,4 @@
-# N Povey
-# Program 3
+
 # File name: Backup.py
 # How to run: python3 program3/Backup.py directory
 # Program always backs up all files to "npovey2" bucket on AWS

@@ -1,5 +1,4 @@
-# N Povey
-# Program 3
+
 # File name: Restore.py
 # Example: nps-MacBook-Air-2:Desktop np$ python3 program3/Restore.py text2
 
