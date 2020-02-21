@@ -4,6 +4,8 @@
 
 The project consists of two python programs. Backup.py and Restore.py One backs up and the other one restores the given directory. Must use python3 (not python).
 
+youtube link <https://www.youtube.com/watch?v=Tyid7FKqMlE&feature=youtu.be>
+
  #### Assumptions
 
 The user already set up it's keys and can connect to AWS and Azure from his/her computer. The program has backet hard coded "npovey2". Directories allways backed up to "npovey2"
@@ -69,7 +71,7 @@ Created: text2/hi/xc.txt
 Created: text2/makefile
 Created: text2/texts/Untitled.txt
 Created: text2/texts/virus.txt
-nps-MacBook-Air-2:Desktop np$ 
+nps-MacBook-Air-2:Desktop np$
 ```
 
 4. Output after backing up text2 folder after restoring
@@ -101,7 +103,7 @@ Darwin nps-MacBook-Air-2.local 18.7.0 Darwin Kernel Version 18.7.0: Tue Aug 20 1
 
 
 
-#### Testing on local computer MacOS 
+#### Testing on local computer MacOS
 
 ![before](/Users/np/Desktop/program3/images/before.png)
 
@@ -118,7 +120,7 @@ Created: text2/texts/Untitled.txt
 Created: text2/hi/xc.txt
 Created: text2/hi/bc.txt
 Created: text2/hi/a.txt
-nps-MacBook-Air-2:Desktop np$ 
+nps-MacBook-Air-2:Desktop np$
 ```
 
 Notice that npovey2 folder appeared.
@@ -138,7 +140,7 @@ Already Backed Up: text2/texts/Untitled.txt
 Already Backed Up: text2/hi/xc.txt
 Already Backed Up: text2/hi/bc.txt
 Already Backed Up: text2/hi/a.txt
-nps-MacBook-Air-2:Desktop np$ 
+nps-MacBook-Air-2:Desktop np$
 
 ```
 
@@ -157,8 +159,5 @@ Already Backed Up: text2/texts/Untitled.txt
 Already Backed Up: text2/hi/xc.txt
 Already Backed Up: text2/hi/bc.txt
 Already Backed Up: text2/hi/a.txt
-nps-MacBook-Air-2:Desktop np$ 
+nps-MacBook-Air-2:Desktop np$
 ```
-
-
-
