@@ -105,7 +105,7 @@ Darwin nps-MacBook-Air-2.local 18.7.0 Darwin Kernel Version 18.7.0: Tue Aug 20 1
 
 #### Testing on local computer MacOS
 
-![before](/Users/np/Desktop/program3/images/before.png)
+![before](/program3/images/before.png)
 
 Ran the Backup.py from outside the program3 folder
 
@@ -125,7 +125,7 @@ nps-MacBook-Air-2:Desktop np$
 
 Notice that npovey2 folder appeared.
 
-![after](/Users/np/Desktop/program3/images/after.png)
+![after](/program3/images/after.png)
 
 Ran the same command the second time
 
@@ -146,7 +146,7 @@ nps-MacBook-Air-2:Desktop np$
 
 Edit Backup.py and try again
 
-![local_folder](/Users/np/Desktop/program3/images/local_folder.png)
+![local_folder](/program3/images/local_folder.png)
 
 ```python
 nps-MacBook-Air-2:Desktop np$ python3 program3/Backup.py text2
